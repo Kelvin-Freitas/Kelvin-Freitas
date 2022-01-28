@@ -1,4 +1,4 @@
-<h1 align="center">Hey Dev, What's up? ? 🤚</h1>
+<h1 align="center">Hi Dev, What's up? ? 🤚</h1>
 
 ## 👦 About me:
  - *My name is Kelvin Freitas Gomes*
